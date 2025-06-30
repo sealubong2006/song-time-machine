@@ -72,7 +72,7 @@ If successful, a new private playlist will be created in your Spotify account!
 * pandas & dotenv
 
 
-📜 Disclaimer
+## 📜 Disclaimer
 This project is for educational and personal learning purposes only.
 
 The song data used in this project is sourced from the publicly accessible **[Billboard Hot 100 page](https://www.billboard.com/charts/hot-100/)**. I do not claim ownership of any Billboard content, nor am I affiliated with Billboard or Spotify.
